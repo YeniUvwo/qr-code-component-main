@@ -29,6 +29,7 @@ main{
   max-width: 290px;
   padding: 12px;
   border-radius: 15px;
+  margin-bottom: 50px;
 
   background-color: hsl(0, 0%, 100%);
 }
